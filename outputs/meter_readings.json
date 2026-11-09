@@ -1,0 +1,26 @@
+﻿[
+  {
+    "filename": "meter_01.png",
+    "detected_reading": 2927.4,
+    "confidence_score": 0.795,
+    "processing_time_ms": 935.2
+  },
+  {
+    "filename": "meter_02.png",
+    "detected_reading": 4859.12,
+    "confidence_score": 0.896,
+    "processing_time_ms": 423.4
+  },
+  {
+    "filename": "meter_03.png",
+    "detected_reading": 4869.4,
+    "confidence_score": 0.916,
+    "processing_time_ms": 70.4
+  },
+  {
+    "filename": "meter_04.png",
+    "detected_reading": 63080,
+    "confidence_score": 0.797,
+    "processing_time_ms": 139.5
+  }
+]

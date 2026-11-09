@@ -1,0 +1,5 @@
+numpy>=1.24
+opencv-python-headless>=4.8
+pytest>=7
+# optional comparison backend (python -m sevenseg.cli --backend easyocr):
+# easyocr>=1.7
